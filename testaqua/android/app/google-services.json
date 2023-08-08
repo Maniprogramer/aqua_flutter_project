@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "362215005959",
+    "firebase_url": "https://aqya-1093c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aqya-1093c",
+    "storage_bucket": "aqya-1093c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362215005959:android:f40a27356256bd2874efa2",
+        "android_client_info": {
+          "package_name": "com.aqua.testaqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362215005959-f1pdam25ddqjo32jfghep2vmb9ag5p1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIzr-VypvarLZdXLqrSxiLzVXIV21zP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362215005959-f1pdam25ddqjo32jfghep2vmb9ag5p1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "362215005959-sm6tjrja9i1bq0poqdm2kkqc1g70bv6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buttonTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
